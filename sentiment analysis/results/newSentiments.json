@@ -1,0 +1,162 @@
+[
+  {
+    "Tweet": "We hope everyone is enjoying the long weekend. Happy Canada Day Weekend.",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.9739497900009155,
+    "NegativeScore": 0.0007390477694571018,
+    "NuetralScore": 0.02502143569290638,
+    "MixedScore": 0.00028972854488529265
+  },
+  {
+    "Tweet": "#longweekend #celebration ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.011764027178287506,
+    "NegativeScore": 0.005400821100920439,
+    "NuetralScore": 0.9827100038528442,
+    "MixedScore": 0.00012513781257439405
+  },
+  {
+    "Tweet": "The Ambassador Bridge, spanning the Detroit River between Detroit and Windsor, Ontario, Canada, under construction ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.0004270356730557978,
+    "NegativeScore": 0.00008920446271076798,
+    "NuetralScore": 0.9994791150093079,
+    "MixedScore": 0.000004688921762863174
+  },
+  {
+    "Tweet": "Arguably the biggest star to come from #Canada and play in the #NBA is Steve Nash. Nash is an eight-time All-Star a ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.8330694437026978,
+    "NegativeScore": 0.010735330171883106,
+    "NuetralScore": 0.15615688264369965,
+    "MixedScore": 0.00003830202331300825
+  },
+  {
+    "Tweet": "Setting off fireworks to celebrate Canadas birthday? Make sure you stay safe and always abide by your municipal by ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.1552400141954422,
+    "NegativeScore": 0.04890837147831917,
+    "NuetralScore": 0.7939174771308899,
+    "MixedScore": 0.0019341453444212675
+  },
+  {
+    "Tweet": "The museum will be closed on Monday, July 1 for the statutory holiday. Happy Canada Day to all! ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.6757559180259705,
+    "NegativeScore": 0.005675492808222771,
+    "NuetralScore": 0.31838324666023254,
+    "MixedScore": 0.0001853591384133324
+  },
+  {
+    "Tweet": "Le muse sera ferm le lundi 1er juillet en raison du jour fri. Joyeuse fte du Canada  tous! ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.8910712599754333,
+    "NegativeScore": 0.001051578321494162,
+    "NuetralScore": 0.10783890634775162,
+    "MixedScore": 0.0000382104808522854
+  },
+  {
+    "Tweet": "Fireworks kick off in Pembroke and Petawawa around 10:00pm on Monday night. ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.00737646222114563,
+    "NegativeScore": 0.00026529558817856014,
+    "NuetralScore": 0.9923474788665771,
+    "MixedScore": 0.000010719927558966447
+  },
+  {
+    "Tweet": "Its Red Party Day! Why celebrate Canada Day anywhere else than at Torontos BIGGEST pool party. ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.9887564778327942,
+    "NegativeScore": 0.0008480461547151208,
+    "NuetralScore": 0.010387694463133812,
+    "MixedScore": 0.000007770817319396883
+  },
+  {
+    "Tweet": "Free before 3p ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.07757159322500229,
+    "NegativeScore": 0.008708340115845203,
+    "NuetralScore": 0.9119789004325867,
+    "MixedScore": 0.0017411563312634826
+  },
+  {
+    "Tweet": "Where in Canada would you like to travel to the most? #LongWeekendVibes ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.020839661359786987,
+    "NegativeScore": 0.003284321865066886,
+    "NuetralScore": 0.9758652448654175,
+    "MixedScore": 0.000010648495845089201
+  },
+  {
+    "Tweet": "Soyez un bon voisin. Respectez les autres lorsque vous clbrez la fte du Canada! ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.9918102622032166,
+    "NegativeScore": 0.0003128290409222245,
+    "NuetralScore": 0.007808299269527197,
+    "MixedScore": 0.0000686184357618913
+  },
+  {
+    "Tweet": "Program director with Renfrews Parks and Recreations, Jo-anne Caldwell, says the town will host a spectacular pyro ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.5751010775566101,
+    "NegativeScore": 0.0009238832863047719,
+    "NuetralScore": 0.423944890499115,
+    "MixedScore": 0.000030132059691823088
+  },
+  {
+    "Tweet": "QUINTE WEST CANADA DAY ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.8447283506393433,
+    "NegativeScore": 0.0235926304012537,
+    "NuetralScore": 0.13147872686386108,
+    "MixedScore": 0.00020025124831590801
+  },
+  {
+    "Tweet": "Get ready for a full day of activities including a vendor village, free cake, outdoor bi ",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.5379796028137207,
+    "NegativeScore": 0.0011198617285117507,
+    "NuetralScore": 0.460266649723053,
+    "MixedScore": 0.0006339289830066264
+  },
+  {
+    "Tweet": "Be a good neighbour. Respect others while celebrating Canada Day!",
+    "Sentiment": "POSITIVE",
+    "PositiveScore": 0.9538745284080505,
+    "NegativeScore": 0.0006854746607132256,
+    "NuetralScore": 0.04521271586418152,
+    "MixedScore": 0.00022738249390386045
+  },
+  {
+    "Tweet": "  #ottcity ",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.010758618824183941,
+    "NegativeScore": 0.010129125788807869,
+    "NuetralScore": 0.9747515916824341,
+    "MixedScore": 0.004360666032880545
+  },
+  {
+    "Tweet": "RT @reneekendall198: #top #day #music #need #HelpEach1 #hi #summer #Donations #health #family #vegan #travel #Donation #sale #USA",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.0031012005638331175,
+    "NegativeScore": 0.008030530996620655,
+    "NuetralScore": 0.9869440793991089,
+    "MixedScore": 0.0019241584232077003
+  },
+  {
+    "Tweet": "ISS location : Regional District of North Okanagan, British Columbia, Canada Local Date/Time :  2019-06-30 07:00:02.454609-07:00",
+    "Sentiment": "NEUTRAL",
+    "PositiveScore": 0.00013630911416839808,
+    "NegativeScore": 0.0002863873669411987,
+    "NuetralScore": 0.9995725750923157,
+    "MixedScore": 0.000004741430529975332
+  },
+  {
+    "Tweet": "RT @EllenJBotelho1: Retweet the hell out of this, please!!! ",
+    "Sentiment": "NEGATIVE",
+    "PositiveScore": 0.025661975145339966,
+    "NegativeScore": 0.7116469144821167,
+    "NuetralScore": 0.26232653856277466,
+    "MixedScore": 0.00036454928340390325
+  }
+]
